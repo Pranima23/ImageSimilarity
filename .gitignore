@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+/Image Classification/dataset*
+/Image Classification/animal-data*
+/Image Classification/saved_model*
+
+/omniglot-master/omniglot-master/python*
+/omniglot-master/omniglot-master/data*
+/omniglot-master/omniglot-master/weights*
+/omniglot-master/omniglot-master/matlab*
+
+/Siamese Network/archive*
+/Siamese Network/data*
+/Siamese Network/weights*
+/Siamese Network/archive.zip
+/Siamese Network/archive (1).zip
+/Siamese Network/Untitled.ipynb
