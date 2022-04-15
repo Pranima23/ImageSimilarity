@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Phoenicopteriformes",
+        "family": "Phoenicopteridae",
+        "genus": "Phoenicopterus"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Algae, Fish, Insects",
+        "fun fact": "Sleeps on just one leg!",
+        "distinctive feature": "Long, curved beak and sleep standing on one leg",
+        "wingspan": "100cm - 180cm (59in - 71in)",
+        "habitat": "Large lakes and plant less lagoons",
+        "predators": "Human, Eagles, Wild dogs",
+        "diet": "Omnivore",
+        "lifestyle": "Flock",
+        "favorite food": "Algae",
+        "type": "Bird",
+        "average clutch size": "1",
+        "slogan": "Sleeps on just one leg!"
+    },
+    "physical characteristics": {
+        "color": "BlueWhiteOrangePink",
+        "skin type": "Feathers",
+        "top speed": "31 mph",
+        "lifespan": "15 - 30 years",
+        "weight": "2kg - 4kg (4.4lbs - 8.8lbs)",
+        "height": "100cm - 150cm (39in - 59in)"
+    }
+}

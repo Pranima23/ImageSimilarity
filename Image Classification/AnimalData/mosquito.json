@@ -1,0 +1,45 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Culicidae"
+    },
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "prey": "Nectar, honeydew, plant juices, and blood",
+        "name of young": "Larvae",
+        "group behavior": "Solitary",
+        "fun fact": "Only the female mosquito actually sucks blood",
+        "biggest threat": "Habitat destruction",
+        "most distinctive feature": "Piercing mouthpart",
+        "other name(s)": "Mitsy, mossy, drill bug",
+        "gestation period": "A few days",
+        "litter size": "100-200 eggs",
+        "predators": "Mammals, amphibians, reptiles, birds, and other insects",
+        "diet": "Omnivore",
+        "type": "Insect",
+        "common name": "Mosquitoes",
+        "number of species": "3500",
+        "location": "Worldwide"
+    },
+    "physical characteristics": {
+        "color": "BrownRedBlackWhite",
+        "skin type": "Exoskeleton",
+        "top speed": "1.5 mph",
+        "lifespan": "A few days or months",
+        "weight": "5mg",
+        "length": "2-38mm (0.1-1.5in)",
+        "age of sexual maturity": "A few days"
+    }
+}

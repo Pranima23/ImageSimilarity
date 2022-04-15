@@ -1,0 +1,35 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "North-America"
+    ],
+    "facts": {
+        "main prey": "Grass, Shoots, Seeds",
+        "distinctive feature": "Long legs and curved antlers",
+        "habitat": "Forest and grasslands",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Herd",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Renew their horns every year!"
+    },
+    "physical characteristics": {
+        "color": "BrownRedTan",
+        "skin type": "Fur",
+        "top speed": "43 mph",
+        "lifespan": "10 - 25 years",
+        "weight": "500kg - 900kg (1,100lbs - 2,000lbs)",
+        "height": "1m - 1.5m (3 - 5ft)"
+    }
+}

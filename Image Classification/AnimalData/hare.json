@@ -1,0 +1,40 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Lagomorpha",
+        "family": "Leporidae",
+        "genus": "Lepus",
+        "scientific name": "Lepus"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Grass, Fruit, Seeds",
+        "habitat": "Dense vegetation and open fields",
+        "predators": "Owl, Hawk, Coyote",
+        "diet": "Herbivore",
+        "average litter size": "6",
+        "lifestyle": "Solitary",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Can reach speeds of over 40 mph!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhiteTan",
+        "skin type": "Fur",
+        "top speed": "45 mph",
+        "lifespan": "2-8 years",
+        "weight": "1-5.5kg (3-12lbs)"
+    }
+}

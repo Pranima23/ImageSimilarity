@@ -1,0 +1,54 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Blattaria",
+        "scientific name": "Blattaria"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "prey": "They will eat anything but love sugar and fatty foods.",
+        "main prey": "Decaying Organic Matter",
+        "name of young": "eggs",
+        "group behavior": "Solitary/Group",
+        "fun fact": "Most cockroach species are not pests.",
+        "estimated population size": "Billions",
+        "biggest threat": "Humans, habitat destruction, and animals who are scavengers.",
+        "most distinctive feature": "Long antennae and dark body.",
+        "other name(s)": "Roach",
+        "gestation period": "28 days",
+        "wingspan": "3 inches",
+        "average spawn size": "16-18 eggs",
+        "habitat": "Dark, moist, dirty places.",
+        "predators": "Spiders, Birds, Mammals",
+        "diet": "Omnivore",
+        "average litter size": "40",
+        "lifestyle": "Nocturnal",
+        "favorite food": "Decaying Organic Matter",
+        "common name": "Cockroach",
+        "origin": "Carboniferous period, some 300-350 million years ago",
+        "number of species": "4000",
+        "location": "Worldwide",
+        "slogan": "Dated to be around 300 million years old!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyYellowBlackTanCaramel",
+        "skin type": "Shell",
+        "lifespan": "1.5 years",
+        "weight": "30 grams",
+        "height": "35-41 mm",
+        "length": "4 cm",
+        "age of sexual maturity": "4-6 months"
+    }
+}

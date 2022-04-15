@@ -1,0 +1,45 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Passeridae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Insects, Seeds, Berries",
+        "fun fact": "There are more sparrows in the world than people.",
+        "estimated population size": "1.6 billion",
+        "distinctive feature": "Small body size and rounded head",
+        "wingspan": "8.3 inches",
+        "incubation period": "10 to 14 days",
+        "habitat": "Countryside and woodland",
+        "predators": "Cats, Snakes, Hawks",
+        "diet": "Omnivore",
+        "lifestyle": "Flock",
+        "type": "Bird",
+        "average clutch size": "4",
+        "slogan": "There are 140 different species!",
+        "nesting location": "On or around buildings",
+        "age of molting": "82 days"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyYellowBlueBlackWhiteTan",
+        "skin type": "Feathers",
+        "top speed": "25 mph",
+        "lifespan": "4 - 7 years",
+        "weight": "13.4g - 42g (0.5oz - 1.5oz)",
+        "height": "11.4cm - 18cm (4.5in - 7in)"
+    }
+}

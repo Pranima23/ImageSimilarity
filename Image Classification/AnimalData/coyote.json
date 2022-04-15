@@ -1,0 +1,36 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific name": "Canis latrans"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America"
+    ],
+    "facts": {
+        "main prey": "Rabbit, Mice, Deer",
+        "distinctive feature": "Pointed ears and nose and a long, bushy tail",
+        "habitat": "Forests, plains and deserts",
+        "predators": "Human, Bears, Wolves",
+        "diet": "Carnivore",
+        "average litter size": "6",
+        "lifestyle": "Pack",
+        "favorite food": "Rabbit",
+        "type": "Mammal",
+        "slogan": "Also known as the Prairie Wolf!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyTan",
+        "skin type": "Fur",
+        "top speed": "40 mph",
+        "lifespan": "10 - 15 years",
+        "weight": "7kg - 21kg (15lbs - 46lbs)",
+        "length": "75cm - 90cm (30in - 35in)"
+    }
+}

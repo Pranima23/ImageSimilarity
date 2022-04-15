@@ -1,0 +1,36 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Sphenisciformes",
+        "family": "Spheniscidae",
+        "scientific name": "Aptenodytes Forsteri"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Antarctica",
+        "Ocean"
+    ],
+    "facts": {
+        "main prey": "Fish, Crabs, Squid",
+        "distinctive feature": "Short, sharp beak and slight webbed feet",
+        "wingspan": "60cm - 130cm (23.6in - 21in)",
+        "habitat": "Cold seas and rocky land",
+        "predators": "Leopard Seals, Sharks, Killer Whale",
+        "diet": "Omnivore",
+        "lifestyle": "Group",
+        "favorite food": "Fish",
+        "type": "Bird",
+        "average clutch size": "1",
+        "slogan": "Spends 75% of it's time hunting for food!"
+    },
+    "physical characteristics": {
+        "color": "GreyYellowBlackWhite",
+        "skin type": "Feathers",
+        "top speed": "40 mph",
+        "lifespan": "20 - 30 years",
+        "weight": "1kg - 35kg (2.2lbs - 75lbs)",
+        "height": "40cm - 110cm (15.7in - 43in)"
+    }
+}

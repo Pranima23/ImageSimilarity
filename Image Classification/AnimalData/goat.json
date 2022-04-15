@@ -1,0 +1,36 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Capra"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ],
+    "facts": {
+        "main prey": "Grass, Fruit, Leaves",
+        "fun fact": "Most closely related to the Sheep!",
+        "habitat": "Dry woodland and mountainous regions",
+        "predators": "Human, Wolf, Mountain Lion",
+        "diet": "Herbivore",
+        "average litter size": "2",
+        "lifestyle": "Herd",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Most closely related to the Sheep!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhiteTan",
+        "skin type": "Fur",
+        "top speed": "10 mph",
+        "lifespan": "10-15 years",
+        "weight": "54-77kg (120-170lbs)"
+    }
+}

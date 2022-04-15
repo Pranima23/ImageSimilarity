@@ -1,0 +1,32 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Mollusca",
+        "class": "Cephalopoda",
+        "order": "Teuthida",
+        "family": "Oegopsina",
+        "scientific name": "Teuthida"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ],
+    "facts": {
+        "main prey": "Fish, Crabs, Shrimp",
+        "habitat": "Cooler and temperate waters",
+        "predators": "Human, Seal, Whales",
+        "diet": "Carnivore",
+        "average litter size": "5",
+        "lifestyle": "Solitary",
+        "favorite food": "Fish",
+        "type": "Cephalopod",
+        "slogan": "Some species are known to have 10 arms!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhite",
+        "skin type": "Smooth",
+        "top speed": "18 mph",
+        "lifespan": "5-30 years",
+        "weight": "0.3-500kg (0.6-1,102lbs)"
+    }
+}

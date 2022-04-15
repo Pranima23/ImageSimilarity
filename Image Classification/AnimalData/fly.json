@@ -1,0 +1,38 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Diptera"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Nectar, Sap, Blood",
+        "fun fact": "There are more than 240,000 different species!",
+        "habitat": "Close to organic waste",
+        "predators": "Frogs, Fish, Lizards",
+        "diet": "Omnivore",
+        "average litter size": "50",
+        "favorite food": "Nectar",
+        "common name": "Fly",
+        "number of species": "240000",
+        "location": "Worldwide",
+        "slogan": "There are more than 240,000 different species!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlueBlack",
+        "skin type": "Hair"
+    }
+}

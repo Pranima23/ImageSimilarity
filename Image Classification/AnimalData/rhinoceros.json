@@ -1,0 +1,33 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Perissodactyla",
+        "family": "Rhinocerotidae",
+        "scientific name": "Rhinocerotidae"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia"
+    ],
+    "facts": {
+        "main prey": "Grass, Fruit, Berries, Leaves",
+        "habitat": "Tropical bushland, grassland and savannas",
+        "predators": "Human, Wild cats",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Solitary",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "It's horns are made from keratin!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlack",
+        "skin type": "Leather",
+        "top speed": "30 mph",
+        "lifespan": "35-50 years",
+        "weight": "800-3,500kg (1,765-7,716lbs)"
+    }
+}

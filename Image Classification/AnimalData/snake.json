@@ -1,0 +1,32 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata"
+    },
+    "conservation-status": "Not Listed",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "fun fact": "There are around 3,000 known species worldwide",
+        "diet": "Carnivore",
+        "lifestyle": "Solitary",
+        "type": "Reptile",
+        "slogan": "There are around 3,000 known species worldwide"
+    },
+    "physical characteristics": {
+        "skin type": "Scales",
+        "top speed": "20 mph",
+        "lifespan": "30 years",
+        "weight": "150kg (330lbs)"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "order": "Decapoda",
+        "family": "Nephropidae",
+        "scientific name": "Nephropidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ],
+    "facts": {
+        "main prey": "Clams, Mussels, Starfish",
+        "habitat": "Sea gardens and rocky beds",
+        "predators": "Human, Eels, Large fish",
+        "diet": "Carnivore",
+        "average litter size": "12",
+        "lifestyle": "Solitary",
+        "favorite food": "Clams",
+        "type": "Arthropod",
+        "slogan": "Have been known to reach 100 years old!"
+    },
+    "physical characteristics": {
+        "color": "BrownRedBlueOrange",
+        "skin type": "Shell",
+        "top speed": "12 mph",
+        "lifespan": "20-80 years",
+        "weight": "1-7kg (2.2-15lbs)"
+    }
+}

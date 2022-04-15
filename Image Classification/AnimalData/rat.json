@@ -1,0 +1,41 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Muridae",
+        "genus": "Rattus",
+        "scientific name": "Rattus rattus"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Eggs, Nuts, Potatoes, Corn",
+        "habitat": "Underground close to human settlements",
+        "predators": "Owls, Snakes, Raccoon, Cats",
+        "diet": "Omnivore",
+        "average litter size": "8",
+        "lifestyle": "Solitary",
+        "favorite food": "Eggs",
+        "type": "Mammal",
+        "slogan": "Omnivores that eat anything!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhite",
+        "skin type": "Fur",
+        "top speed": "8 mph",
+        "lifespan": "2-5 years",
+        "weight": "200-900g (0.4-2lbs)"
+    }
+}

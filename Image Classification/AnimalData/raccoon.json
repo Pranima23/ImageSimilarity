@@ -1,0 +1,37 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Procyonidae",
+        "genus": "Procyon",
+        "scientific name": "Procyon lotor"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Fish, Nuts, Berries, Corn",
+        "fun fact": "Sporting a black mask and ringed tail, the raccoon is among the most common mammals in North America",
+        "habitat": "Woodland areas close to water",
+        "predators": "Bobcat, Foxes, Wolves, Mountain Lions",
+        "diet": "Omnivore",
+        "average litter size": "5",
+        "lifestyle": "Solitary",
+        "favorite food": "Fish",
+        "type": "Mammal",
+        "slogan": "Known to wash their food before eating it!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhite",
+        "skin type": "Fur",
+        "top speed": "15 mph",
+        "lifespan": "12-16 years",
+        "weight": "3.5-9kg (7.7-19.8lbs)"
+    }
+}

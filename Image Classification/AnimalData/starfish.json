@@ -1,0 +1,41 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Echinodermata",
+        "class": "Asteroidea",
+        "scientific name": "Asteroidea"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ],
+    "facts": {
+        "prey": "Mollusks",
+        "main prey": "Crustaceans, Worms, Sea Urchins",
+        "group behavior": "Solitary",
+        "fun fact": "Has a seawater-based vascular system instead of blood",
+        "estimated population size": "unknown",
+        "biggest threat": "coral reef destruction",
+        "most distinctive feature": "Bumpy, spiny skin",
+        "other name(s)": "Sea star",
+        "gestation period": "4-8 weeks",
+        "water type": "Salt",
+        "habitat": "coral reef",
+        "predators": "Fish, birds, turtles, otters, carbs",
+        "diet": "Carnivore",
+        "average litter size": "1,000,000",
+        "lifestyle": "Solitary",
+        "favorite food": "Crustaceans",
+        "type": "Asteroidea",
+        "common name": "Starfish",
+        "number of species": "2000",
+        "slogan": "Has 2 stomachs to aid digestion!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyRedBlueOrange",
+        "skin type": "Spiky",
+        "top speed": "0.6 mph",
+        "lifespan": "35 years",
+        "weight": "0.1-6kg (0.2-13lbs)"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Cypriniformes",
+        "family": "Cyprinidae",
+        "genus": "Carassius",
+        "scientific name": "Carassius auratus"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Asia"
+    ],
+    "facts": {
+        "prey": "Insects, small crustaceans",
+        "group behavior": "Gregarious",
+        "fun fact": "Goldfish and common carp can mate and produce offspring",
+        "estimated population size": "Many millions",
+        "biggest threat": "None",
+        "most distinctive feature": "The orange-gold color of domestic fish",
+        "water type": "Fresh",
+        "optimum ph level": "6.0 to 8.0",
+        "habitat": "Cold freshwater rivers, canals, ditches with lots of vegetation",
+        "predators": "Waterbirds, turtles, larger fish",
+        "diet": "Omnivore",
+        "type": "Fish",
+        "common name": "Fish",
+        "number of species": "1"
+    },
+    "physical characteristics": {
+        "color": "BlackWhiteOrangeOliveGolden",
+        "skin type": "Scales",
+        "top speed": "0.86 mph",
+        "lifespan": "Up to 41 years",
+        "weight": "Up to 5 pounds",
+        "length": "1 to 2 inches to over 16 inches"
+    }
+}

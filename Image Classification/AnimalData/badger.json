@@ -1,0 +1,35 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Mustelidae",
+        "genus": "Taxidiinae",
+        "scientific name": "Taxidea Taxus"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Europe"
+    ],
+    "facts": {
+        "main prey": "Worms, Roots, Fruit",
+        "distinctive feature": "Flattened body and long claws",
+        "habitat": "Woodland and hedgerows",
+        "predators": "Human, Eagle, Wildcats",
+        "diet": "Omnivore",
+        "average litter size": "3",
+        "lifestyle": "Solitary",
+        "favorite food": "Worms",
+        "type": "Mammal",
+        "slogan": "Can reach speeds of 30 km/h!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhite",
+        "skin type": "Fur",
+        "top speed": "18 mph",
+        "lifespan": "4 - 10 years",
+        "weight": "11kg - 14kg (24lbs - 30lbs)",
+        "length": "40cm - 75cm (16in - 29in)"
+    }
+}

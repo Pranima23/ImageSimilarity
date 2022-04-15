@@ -1,0 +1,41 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Muridae",
+        "genus": "Mus"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Fruit, Seeds, Grasses",
+        "fun fact": "Found on every continent on Earth!",
+        "habitat": "Open fields and woodland areas",
+        "predators": "Bird, Cat, Fox, Reptiles",
+        "diet": "Herbivore",
+        "average litter size": "6",
+        "lifestyle": "Solitary",
+        "favorite food": "Fruit",
+        "type": "Mammal",
+        "slogan": "Found on every continent on Earth!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlack",
+        "skin type": "Fur",
+        "top speed": "8 mph",
+        "lifespan": "2-5 years",
+        "weight": "100-200g (0.2-0.4lbs)"
+    }
+}

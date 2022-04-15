@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Falconiformes",
+        "family": "Accipitridae"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Fish, Mammals, Reptiles",
+        "fun fact": "Has exceptional eyesight!",
+        "distinctive feature": "Long curved beak and strong, sharp claws",
+        "wingspan": "70cm - 250cm (27.5in - 98in)",
+        "habitat": "Open waters like rivers, lakes and coastal regions",
+        "predators": "Human, Hawk, Raccoon",
+        "diet": "Carnivore",
+        "lifestyle": "Solitary",
+        "favorite food": "Fish",
+        "type": "Bird",
+        "average clutch size": "2",
+        "slogan": "Has exceptional eyesight!",
+        "nesting location": "In trees or on cliffs"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyYellowBlackWhite",
+        "skin type": "Feathers",
+        "top speed": "100 mph",
+        "lifespan": "15 - 30 years",
+        "weight": "0.5kg - 7kg (1.1lbs - 15.4lbs)",
+        "height": "40cm - 100cm (15.7in - 39.3in)"
+    }
+}

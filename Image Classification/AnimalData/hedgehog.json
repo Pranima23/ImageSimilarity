@@ -1,0 +1,35 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Erinaceomorpha",
+        "family": "Erinaceidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ],
+    "facts": {
+        "main prey": "Insects, Worms, Seeds",
+        "fun fact": "Thought to be one of the oldest mammals on Earth!",
+        "habitat": "Dense vegetation and woodland",
+        "predators": "Owl, Dog, Foxes",
+        "diet": "Omnivore",
+        "average litter size": "5",
+        "lifestyle": "Solitary",
+        "favorite food": "Insects",
+        "type": "Mammal",
+        "slogan": "Thought to be one of the oldest mammals on Earth!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyTan",
+        "skin type": "Spikes",
+        "top speed": "12 mph",
+        "lifespan": "3-6 years",
+        "weight": "1-2kg (2.2-4.4lbs)"
+    }
+}

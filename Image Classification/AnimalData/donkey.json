@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Perissodactyla",
+        "family": "Equidae",
+        "genus": "Equus",
+        "scientific name": "Equus Asinus"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Grass, Weeds, Vegetables",
+        "distinctive feature": "Stocky body and hee-haw sounds",
+        "habitat": "Arid forests and deserts",
+        "predators": "Fox, Wolf, Lion",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Herd",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "First domesticated 5,000 years ago!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlack",
+        "skin type": "Fur",
+        "top speed": "15 mph",
+        "lifespan": "15 - 30 years",
+        "weight": "200kg - 258kg (441lbs - 570lbs)",
+        "height": "90cm - 130cm (35in - 51in)"
+    }
+}

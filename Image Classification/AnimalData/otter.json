@@ -1,0 +1,40 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Mustelidae",
+        "genus": "Lutra",
+        "scientific name": "Lutra Canadensis"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Fish, Crabs, Frogs",
+        "habitat": "River banks, lakes and streams",
+        "predators": "Birds, Fox, Wolves",
+        "diet": "Carnivore",
+        "average litter size": "3",
+        "lifestyle": "Solitary",
+        "favorite food": "Fish",
+        "type": "Mammal",
+        "slogan": "There are 13 different species worldwide"
+    },
+    "physical characteristics": {
+        "color": "BrownWhiteTan",
+        "skin type": "Fur",
+        "top speed": "7 mph",
+        "lifespan": "15-25 years",
+        "weight": "5-15kg (10-30lbs)"
+    }
+}

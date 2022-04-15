@@ -1,0 +1,35 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "scientific name": "Gynnidomorpha Alisman"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Nectar, Fruits, Natural Fabrics",
+        "habitat": "Quiet forests and pastures",
+        "predators": "Birds, Bats, Lizards, Spiders",
+        "diet": "Herbivore",
+        "average litter size": "100",
+        "favorite food": "Nectar",
+        "common name": "Moth",
+        "number of species": "9000",
+        "slogan": "There are 250,000 different species!"
+    },
+    "physical characteristics": {
+        "color": "BrownYellowRedBlackWhiteOrange",
+        "skin type": "Hair"
+    }
+}

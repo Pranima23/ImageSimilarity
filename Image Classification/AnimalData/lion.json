@@ -1,0 +1,46 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific name": "Panthera leo"
+    },
+    "conservation-status": "Vulnerable",
+    "locations": [
+        "Africa",
+        "Asia"
+    ],
+    "facts": {
+        "prey": "Antelope, Warthog, Zebra",
+        "name of young": "Cub",
+        "group behavior": "Pride",
+        "fun fact": "Lives in small groups called prides!",
+        "estimated population size": "23,000",
+        "biggest threat": "Habitat loss",
+        "most distinctive feature": "Long and thick hairy mane of the male around the face",
+        "other name(s)": "African Lion",
+        "gestation period": "110 days",
+        "habitat": "open woodland, scrub, grassland",
+        "diet": "Carnivore",
+        "average litter size": "3",
+        "lifestyle": "Diurnal/Nocturnal",
+        "common name": "Lion",
+        "number of species": "2",
+        "location": "sub-Saharan Africa",
+        "slogan": "Lives in small groups called prides!",
+        "group": "Mammal"
+    },
+    "physical characteristics": {
+        "color": "BrownGoldTawnyBlonde",
+        "skin type": "Fur",
+        "top speed": "35 mph",
+        "lifespan": "8 - 15 years",
+        "weight": "120kg - 249kg (264lbs - 550lbs)",
+        "length": "1.4m - 2.5m (4.7ft - 8.2ft)",
+        "age of sexual maturity": "2 - 3 years",
+        "age of weaning": "6 months"
+    }
+}

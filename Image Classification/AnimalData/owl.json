@@ -1,0 +1,47 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Strigiformes"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "prey": "Insects, rodents, rabbits, hares, and fish",
+        "name of young": "Hatchlings",
+        "group behavior": "GroupFamily units",
+        "fun fact": "The owl can rotate its head some 270 degrees",
+        "estimated population size": "Unknown",
+        "biggest threat": "Habitat loss",
+        "most distinctive feature": "The massive front-facing eyes",
+        "other name(s)": "Hooters",
+        "gestation period": "1-2 months",
+        "litter size": "Up to 12 eggs",
+        "habitat": "Grasslands, forests, swamps, and others",
+        "predators": "Birds of prey, cats, and humans",
+        "diet": "Carnivore",
+        "type": "Bird",
+        "common name": "Owl",
+        "location": "Worldwide"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhite",
+        "skin type": "Feathers",
+        "top speed": "40 mph",
+        "lifespan": "Up to 25 years",
+        "weight": "Up to 4kg (9lbs)",
+        "height": "13-71cm (5-28in)",
+        "length": "25-182cm (10-72in)",
+        "age of sexual maturity": "1-2 years"
+    }
+}

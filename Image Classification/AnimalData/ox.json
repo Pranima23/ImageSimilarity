@@ -1,0 +1,39 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Bos",
+        "scientific name": "Bos taurus"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Central-America",
+        "South-America"
+    ],
+    "facts": {
+        "prey": "They are hernivores",
+        "name of young": "calve",
+        "group behavior": "Herd",
+        "biggest threat": "Wolves and bears",
+        "most distinctive feature": "Large horns",
+        "other name(s)": "Bullocks",
+        "habitat": "Human sheltering",
+        "predators": "Bears and wolves",
+        "diet": "Herbivore",
+        "type": "mammal",
+        "common name": "ox",
+        "number of species": "1",
+        "location": "North America, India, Asia, Australia, Africa"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhite",
+        "skin type": "Hair",
+        "top speed": "16 mph",
+        "lifespan": "18\u201322 years",
+        "weight": "Between 1,500 and 3,000 pounds"
+    }
+}

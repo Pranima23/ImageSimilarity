@@ -1,0 +1,46 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Giraffidae",
+        "genus": "Okapia",
+        "scientific name": "Okapia johnstoni"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa"
+    ],
+    "facts": {
+        "prey": "Leaves, Shoots, Fruit",
+        "name of young": "Calf",
+        "group behavior": "Solitary",
+        "fun fact": "Eats more than 100 different types of plant!",
+        "estimated population size": "22,000",
+        "biggest threat": "Habitat loss",
+        "most distinctive feature": "Horizontal white stripes on rear and legs",
+        "other name(s)": "Forest Zebra",
+        "gestation period": "15 months",
+        "habitat": "Dense mountain rainforest",
+        "predators": "Leopard, Serval, Human",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Diurnal",
+        "common name": "Okapi",
+        "number of species": "1",
+        "location": "central Africa",
+        "slogan": "Eats more than 100 different types of plant!",
+        "group": "Mammal"
+    },
+    "physical characteristics": {
+        "color": "BrownRedBlackWhite",
+        "skin type": "Fur",
+        "top speed": "37 mph",
+        "lifespan": "20 - 30 years",
+        "weight": "200kg - 300kg (440lbs - 660lbs)",
+        "length": "1.5m - 2m (4.9ft - 6.5ft)",
+        "age of sexual maturity": "2 - 3 years",
+        "age of weaning": "6 months"
+    }
+}

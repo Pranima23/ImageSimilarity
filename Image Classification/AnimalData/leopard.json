@@ -1,0 +1,46 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific name": "Panthera pardus"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia"
+    ],
+    "facts": {
+        "prey": "Deer, Warthog, Rodents",
+        "name of young": "Cub",
+        "group behavior": "Solitary",
+        "fun fact": "Spends much of the time high in the trees!",
+        "estimated population size": "Stable",
+        "biggest threat": "Trophy hunting and habitat loss",
+        "most distinctive feature": "Dense patterned fur and long, sharp teeth",
+        "other name(s)": "Panther",
+        "gestation period": "90 - 105 days",
+        "habitat": "Rainforest, grassland and mountainous regions",
+        "diet": "Carnivore",
+        "average litter size": "3",
+        "lifestyle": "Nocturnal",
+        "common name": "Leopard",
+        "number of species": "7",
+        "location": "Sub-Saharan Africa and southern Asia",
+        "slogan": "Spends much of the time high in the trees!",
+        "group": "Mammal"
+    },
+    "physical characteristics": {
+        "color": "YellowBlackDark BrownGolden",
+        "skin type": "Fur",
+        "top speed": "6 mph",
+        "lifespan": "10 - 15 years",
+        "weight": "30kg - 90kg (66lbs - 198lbs)",
+        "length": "100cm - 190cm (40in - 75in)",
+        "age of sexual maturity": "2 - 2.5 years",
+        "age of weaning": "3 months"
+    }
+}

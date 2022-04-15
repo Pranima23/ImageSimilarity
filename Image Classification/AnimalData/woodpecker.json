@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Piciformes",
+        "family": "Picidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Seeds, Fruit, Insects",
+        "fun fact": "They have zygodactyl feet, with the first and fourth toes facing backward, the second and third facing forward, so they can grip tree trunks more efficiently",
+        "wingspan": "Up to 30 inches",
+        "incubation period": "11 days to two weeks",
+        "habitat": "Dense forest and woodland",
+        "predators": "Rat, Snakes, Wild cats",
+        "diet": "Omnivore",
+        "lifestyle": "Solitary",
+        "favorite food": "Seeds",
+        "type": "Bird",
+        "average clutch size": "4",
+        "slogan": "There are 200 different species!",
+        "nesting location": "Holes in the trunks of trees",
+        "age of molting": "late summer within the first year"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyRedBlackWhiteTanGreen",
+        "skin type": "Feathers",
+        "top speed": "15 mph",
+        "lifespan": "6-11 years",
+        "weight": "7-600g (0.2-21oz)"
+    }
+}

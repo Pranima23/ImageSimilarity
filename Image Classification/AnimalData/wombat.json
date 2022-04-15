@@ -1,0 +1,33 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Diprotodontia",
+        "family": "Vombatidae",
+        "genus": "Vombatus",
+        "scientific name": "Vombatus Ursinus"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Oceania"
+    ],
+    "facts": {
+        "main prey": "Grass, Shrubs, Roots",
+        "habitat": "Woodland and coastal shrub land",
+        "predators": "Dingo, Fox, Wild dogs",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Solitary",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Spends most of the day underground!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyTan",
+        "skin type": "Fur",
+        "top speed": "25 mph",
+        "lifespan": "20-26 years",
+        "weight": "20-35kg (44-77lbs)"
+    }
+}
