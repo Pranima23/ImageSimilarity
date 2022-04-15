@@ -1,0 +1,36 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Cervidae",
+        "scientific name": "Odocoileus virginiana"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ],
+    "facts": {
+        "main prey": "Acorns, Fruit, Grass",
+        "distinctive feature": "Long ears and some male species have antlers",
+        "habitat": "Dense forest and planted areas",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Herd",
+        "favorite food": "Acorns",
+        "type": "Mammal",
+        "slogan": "There are around 40 different species!"
+    },
+    "physical characteristics": {
+        "color": "BrownWhiteTanOrange",
+        "skin type": "Fur",
+        "top speed": "43 mph",
+        "lifespan": "10 - 20 years",
+        "weight": "10kg - 450kg (22lbs - 990lbs)",
+        "height": "60cm - 105cm (24in - 206in)"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Odonata",
+        "family": "Anisoptera"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Mosquitoes, Fly, Bee",
+        "fun fact": "It's larvae are carnivorous!",
+        "habitat": "Wetlands and close to water",
+        "predators": "Birds, Fish, Lizards",
+        "diet": "Carnivore",
+        "average litter size": "60",
+        "favorite food": "Mosquitoes",
+        "common name": "Dragonfly",
+        "number of species": "5000",
+        "location": "Worldwide",
+        "slogan": "It's larvae are carnivorous!"
+    },
+    "physical characteristics": {
+        "color": "YellowRedBlueBlackOrange",
+        "skin type": "Smooth"
+    }
+}

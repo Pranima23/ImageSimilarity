@@ -1,0 +1,37 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Orthoptera",
+        "family": "Caelifera"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Grass, Weeds, Shrubs",
+        "fun fact": "There are 11,000 known species!",
+        "habitat": "Fields and meadows",
+        "predators": "Birds, Rodents, Reptiles, Insects",
+        "diet": "Herbivore",
+        "average litter size": "4",
+        "favorite food": "Grass",
+        "common name": "Grasshopper",
+        "number of species": "11000",
+        "location": "Worldwide",
+        "slogan": "There are 11,000 known species!"
+    },
+    "physical characteristics": {
+        "color": "BrownYellowGreen",
+        "skin type": "Shell"
+    }
+}

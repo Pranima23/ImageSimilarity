@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Chiroptera",
+        "family": "Microchiroptera",
+        "genus": "Emballonuridae",
+        "scientific name": "Chiroptera"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Mice, Frogs, Fruit",
+        "distinctive feature": "Large ears detect prey using echolocation and have strong, flexible wings",
+        "habitat": "Woodland and caves",
+        "predators": "Owls, Eagles, Snakes",
+        "diet": "Omnivore",
+        "average litter size": "1",
+        "lifestyle": "Pack",
+        "favorite food": "Mice",
+        "type": "Mammal",
+        "slogan": "Detects prey using echolocation!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlack",
+        "skin type": "Fur",
+        "top speed": "25 mph",
+        "lifespan": "10 - 30 years",
+        "weight": "2g - 1,000g (0.07oz - 35oz)",
+        "length": "3cm - 180cm (1.2in - 71in)"
+    }
+}

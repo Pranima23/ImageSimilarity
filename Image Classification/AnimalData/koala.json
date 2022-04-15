@@ -1,0 +1,46 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Diprotodontia",
+        "family": "Phascolarctidae",
+        "genus": "Phascolarctos",
+        "scientific name": "Phascolarctos cinereus"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ],
+    "facts": {
+        "prey": "Eucalyptus leaves",
+        "name of young": "Joey",
+        "group behavior": "Solitary",
+        "fun fact": "Spends up to 80% of the time sleeping or resting!",
+        "estimated population size": "Stable",
+        "biggest threat": "Habitat loss and disease",
+        "most distinctive feature": "Large, wide head and tufted, round ears",
+        "other name(s)": "Koala Bear",
+        "gestation period": "35 days",
+        "habitat": "Eucalyptus, inland and coastal forests",
+        "predators": "Birds of Prey, Dingo, Human",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Nocturnal",
+        "common name": "Koala",
+        "number of species": "3",
+        "location": "south-eastern Australia",
+        "slogan": "Spends up to 80% of the time sleeping or resting!",
+        "group": "Mammal"
+    },
+    "physical characteristics": {
+        "color": "GreyBlackWhiteGrey-Brown",
+        "skin type": "Fur",
+        "top speed": "2 mph",
+        "lifespan": "15 - 20 years",
+        "weight": "4kg - 15kg (8.8lbs - 33lbs)",
+        "height": "60cm - 85cm (24in - 34in)",
+        "age of sexual maturity": "2 years",
+        "age of weaning": "6 - 7 months"
+    }
+}

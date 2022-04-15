@@ -1,0 +1,40 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Psittaciformes",
+        "family": "Psittacidae"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Fruit, Nuts, Seeds, Insects",
+        "fun fact": "Can live for up to 100 years!",
+        "distinctive feature": "Large colourful body and curved beak",
+        "wingspan": "15cm - 140cm (5.9in - 56in)",
+        "habitat": "Rainforests and tropical jungle",
+        "predators": "Human, Monkeys, Large Birds",
+        "diet": "Omnivore",
+        "lifestyle": "Solitary",
+        "favorite food": "Fruit",
+        "type": "Bird",
+        "average clutch size": "2",
+        "slogan": "Can live for up to 100 years!"
+    },
+    "physical characteristics": {
+        "color": "YellowRedBlueWhiteGreen",
+        "skin type": "Feathers",
+        "top speed": "15 mph",
+        "lifespan": "40 - 80 years",
+        "weight": "10g - 4,000g (0.02lbs - 5.9lbs)",
+        "height": "8cm - 100cm (3.5in - 39in)"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Cnidaria",
+        "class": "Scyphozoa",
+        "order": "Semaeostomeae",
+        "family": "Cyaneidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ],
+    "facts": {
+        "prey": "Small fish, plants, fish eggs, larvae, other small marine creatures",
+        "group behavior": "Group",
+        "fun fact": "Many jellyfish can produce their light.",
+        "estimated population size": "900 million, as of 1990",
+        "biggest threat": "Sharks, birds, tuna, and sea anemone",
+        "most distinctive feature": "Tentacles hanging from the body that help aid the jellyfish's stinging characteristics",
+        "gestation period": "Hatches within one day",
+        "habitat": "All oceans on planet earth",
+        "predators": "Sharks, birds, tuna, and sea anemone",
+        "diet": "Carnivore",
+        "average litter size": "100",
+        "lifestyle": "Group",
+        "favorite food": "Small fish, plants, fish eggs, larvae, other small marine creatures",
+        "type": "Cnidaria",
+        "common name": "Jellyfish",
+        "slogan": "Have tentacles around their mouths!"
+    },
+    "physical characteristics": {
+        "color": "YellowRedBlueWhiteGreenOrangePurplePink",
+        "skin type": "Smooth",
+        "top speed": "5 mph",
+        "lifespan": "Three to Six months",
+        "weight": "20-400g (0.7-14oz)",
+        "length": "0.5 inches to 16 inches, though they can grow to 7 feet"
+    }
+}

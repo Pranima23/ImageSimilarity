@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Anseriformes",
+        "family": "Anatidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Insects, Frogs, Plants, Shellfish",
+        "fun fact": "Rows of tiny plates line their teeth!",
+        "distinctive feature": "Long, broad beak and webbed feet",
+        "wingspan": "60cm - 80cm (24in - 31in)",
+        "habitat": "Rivers, lakes and woodland wetlands",
+        "diet": "Omnivore",
+        "lifestyle": "Pack",
+        "favorite food": "Insects",
+        "type": "Bird",
+        "average clutch size": "5",
+        "slogan": "Rows of tiny plates line their teeth!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyYellowBlackWhiteGreen",
+        "skin type": "Feathers",
+        "top speed": "88 mph",
+        "lifespan": "4 - 8 years",
+        "weight": "0.7kg - 1.4kg (1.5lbs - 3lbs)",
+        "length": "30cm - 50cm (12in - 20in)"
+    }
+}

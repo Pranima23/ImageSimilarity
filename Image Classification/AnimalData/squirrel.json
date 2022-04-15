@@ -1,0 +1,38 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Sciuridae"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Fruit, Seeds, Insects",
+        "fun fact": "Small rodents found in woodlands worldwide!",
+        "habitat": "Woodland and dense forests",
+        "predators": "Snakes, Coyote, Weasels",
+        "diet": "Omnivore",
+        "average litter size": "3",
+        "lifestyle": "Solitary",
+        "favorite food": "Fruit",
+        "type": "Mammal",
+        "slogan": "Small rodents found in woodlands worldwide!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyRedBlackTan",
+        "skin type": "Fur",
+        "top speed": "16 mph",
+        "lifespan": "2-8 years",
+        "weight": "250-1,000g (0.5-2.2lbs)"
+    }
+}

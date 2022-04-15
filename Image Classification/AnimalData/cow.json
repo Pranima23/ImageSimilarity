@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Bos",
+        "scientific name": "Bos Taurus"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Grass, Seeds, Flowers",
+        "distinctive feature": "Thick leathery skin and complex digestive system",
+        "habitat": "Forest and grassland",
+        "predators": "Human, Bears, Wolves",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Herd",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "There are nearly 1.5 million worldwide!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhite",
+        "skin type": "Leather",
+        "top speed": "25 mph",
+        "lifespan": "12 - 20 years",
+        "weight": "400kg - 800kg (881lbs - 1,760lbs)",
+        "length": "1.5m - 1.8m (5ft - 6ft)"
+    }
+}

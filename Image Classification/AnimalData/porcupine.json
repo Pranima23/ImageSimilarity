@@ -1,0 +1,38 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Erethizontidae",
+        "genus": "Erethizon",
+        "scientific name": "Erethizon Dorsaum"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Roots, Leaves, Berries",
+        "habitat": "Dense forests and grassland",
+        "predators": "Owl, Eagles, Wolves",
+        "diet": "Omnivore",
+        "average litter size": "1",
+        "lifestyle": "Solitary",
+        "favorite food": "Roots",
+        "type": "Mammal",
+        "slogan": "There are 30 different species worldwide!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyYellowBlack",
+        "skin type": "Spikes",
+        "top speed": "2 mph",
+        "lifespan": "8-12 years",
+        "weight": "5.4-16kg (12-35lbs)"
+    }
+}

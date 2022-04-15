@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Anseriformes",
+        "family": "Anatidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean"
+    ],
+    "facts": {
+        "main prey": "Grass, Seeds, Berries",
+        "fun fact": "During its migration, the goose flies in V formations to conserve energy.",
+        "distinctive feature": "Long neck and noisy communication calls",
+        "wingspan": "4.2 to 6.1 feet",
+        "incubation period": "1 month",
+        "habitat": "Large ponds, rivers and lake shores",
+        "diet": "Omnivore",
+        "lifestyle": "Flock",
+        "favorite food": "Grass",
+        "type": "Bird",
+        "average clutch size": "5",
+        "slogan": "There are 29 different species!",
+        "nesting location": "Ground",
+        "age of molting": "A few months",
+        "migratory": "1"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhite",
+        "skin type": "Feathers",
+        "top speed": "55 mph",
+        "lifespan": "12 - 26 years",
+        "weight": "1.5kg - 8kg (3.3lbs - 17lbs)",
+        "length": "60cm - 120cm (23.6in - 50in)"
+    }
+}

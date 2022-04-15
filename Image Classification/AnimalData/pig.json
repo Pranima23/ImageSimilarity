@@ -1,0 +1,36 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Suidae",
+        "genus": "Sus",
+        "scientific name": "Sus scrofa scrofa"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ],
+    "facts": {
+        "main prey": "Roots, Seeds, Leaves",
+        "fun fact": "The pig was among the first animals to be domesticated.",
+        "habitat": "Forests and grassland",
+        "diet": "Omnivore",
+        "average litter size": "7",
+        "lifestyle": "Herd",
+        "favorite food": "Roots",
+        "type": "Mammal",
+        "slogan": "Thought to have been domesticated in 9,000 BC!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhitePink",
+        "skin type": "Hair",
+        "top speed": "11 mph",
+        "lifespan": "8-15 years",
+        "weight": "30-350kg (66-770lbs)"
+    }
+}

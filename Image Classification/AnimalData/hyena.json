@@ -1,0 +1,34 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Hyaenidae",
+        "genus": "Crocuta",
+        "scientific name": "Crocuta Crocuta"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Europe"
+    ],
+    "facts": {
+        "main prey": "Wildebeest, Monkey, Birds",
+        "habitat": "Open savanna plains and grassland",
+        "diet": "Carnivore",
+        "average litter size": "3",
+        "lifestyle": "Pack",
+        "favorite food": "Wildebeest",
+        "type": "Mammal",
+        "slogan": "There are four different species!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackTan",
+        "skin type": "Fur",
+        "top speed": "37 mph",
+        "lifespan": "20-25 years",
+        "weight": "41-86kg (90-190lbs)"
+    }
+}

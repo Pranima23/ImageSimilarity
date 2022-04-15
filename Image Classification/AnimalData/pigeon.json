@@ -1,0 +1,47 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Columbiformes",
+        "family": "Columbidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "prey": "Grain, seeds, berries, fruits, and occasionally insects, snails, earthworms.",
+        "fun fact": "They can find their way back to their nests from up to 1300 miles away.",
+        "estimated population size": "400 million worldwide",
+        "biggest threat": "Inference from humans either in the form of pest control or urbanization",
+        "most distinctive feature": "White rump and metallic purple/ green iridescence on males",
+        "other name(s)": "common pigeon, rock dove",
+        "wingspan": "19.7-26.4 inches",
+        "incubation period": "14-19 days",
+        "habitat": "Often found in towns and cities, as well as farmlands, fields, and rocky cliffs",
+        "diet": "Omnivore",
+        "type": "Bird",
+        "common name": "Pigeon, dove",
+        "number of species": "250",
+        "location": "All continents except Antarctica",
+        "nesting location": "Buildings or rocky cliffs",
+        "age of molting": "12-19 days"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyWhite",
+        "skin type": "Feathers",
+        "top speed": "95 mph",
+        "lifespan": "6 years",
+        "weight": "9.3-13.4 oz",
+        "height": "25-35 centimeters",
+        "length": "11.8-14.2 inches"
+    }
+}

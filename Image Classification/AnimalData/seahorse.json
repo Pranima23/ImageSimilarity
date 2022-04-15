@@ -1,0 +1,41 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Syngnathiformes",
+        "family": "Syngnathidae",
+        "genus": "Hippocampus",
+        "scientific name": "Hippocampus"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Tiny Fish, Brine Shrimp, Plankton",
+        "distinctive feature": "Long snout and brooding pouch on the male",
+        "water type": "Brackish",
+        "optimum ph level": "7.9 - 8.4",
+        "habitat": "Shallow tropical waters and coral reefs",
+        "predators": "Fish, Crabs, Rays",
+        "diet": "Omnivore",
+        "favorite food": "Tiny Fish",
+        "common name": "Seahorse",
+        "average clutch size": "250",
+        "slogan": "Males give birth to up to 1,000 offspring!"
+    },
+    "physical characteristics": {
+        "skin type": "Skin",
+        "lifespan": "2 - 6 years",
+        "length": "2.5cm - 35cm (0.9in - 12in)"
+    }
+}

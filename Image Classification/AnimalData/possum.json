@@ -1,0 +1,33 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Diprotodontia",
+        "family": "Phalangeriformes",
+        "genus": "Phalangeridae",
+        "scientific name": "Phalangeriforme"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ],
+    "facts": {
+        "main prey": "Insects, Leaves, Flowers",
+        "habitat": "Bushland and rainforest",
+        "predators": "Fox, Cat, Birds of Prey",
+        "diet": "Omnivore",
+        "average litter size": "2",
+        "lifestyle": "Solitary",
+        "favorite food": "Insects",
+        "type": "Mammal",
+        "slogan": "There are 69 species on the Australian continent!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhiteTan",
+        "skin type": "Fur",
+        "top speed": "15 mph",
+        "lifespan": "5-8 years",
+        "weight": "0.1-14.5kg (0.22-32lbs)"
+    }
+}

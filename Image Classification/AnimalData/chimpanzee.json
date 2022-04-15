@@ -1,0 +1,46 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Hominidae",
+        "genus": "Pan",
+        "scientific name": "Pan troglodytes"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Africa"
+    ],
+    "facts": {
+        "prey": "Fruits, Seeds, Insects",
+        "name of young": "Infant",
+        "group behavior": "Group",
+        "fun fact": "Has 32 teeth including fang-like canines!",
+        "estimated population size": "100,000 - 200,000",
+        "biggest threat": "Habitat loss",
+        "most distinctive feature": "Dexterous hands and feet and complex communication",
+        "other name(s)": "Common Chimpanzee",
+        "gestation period": "8 months",
+        "habitat": "Tropical forest and woody savanna",
+        "predators": "Leopards, Snakes, Humans",
+        "diet": "Omnivore",
+        "average litter size": "1",
+        "lifestyle": "Diurnal",
+        "common name": "Chimpanzee",
+        "number of species": "2",
+        "location": "Western and Central Africa",
+        "slogan": "Has 32 teeth including fang-like canines!",
+        "group": "Mammal"
+    },
+    "physical characteristics": {
+        "color": "BrownBlack",
+        "skin type": "Hair",
+        "top speed": "25 mph",
+        "lifespan": "50 - 60 years",
+        "weight": "26kg - 70kg (57lbs - 154lbs)",
+        "height": "1m - 1.7m (3.25ft - 5.5ft)",
+        "age of sexual maturity": "13 - 16 years",
+        "age of weaning": "5 - 6 years"
+    }
+}

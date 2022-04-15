@@ -1,0 +1,38 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata",
+        "family": "Lacertidae"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Insects, Birds, Small rodents",
+        "fun fact": "There are around 5,000 different species!",
+        "habitat": "Warm forests and deserts worldwide",
+        "diet": "Omnivore",
+        "average litter size": "18",
+        "lifestyle": "Solitary",
+        "favorite food": "Insects",
+        "type": "Reptile",
+        "slogan": "There are around 5,000 different species!"
+    },
+    "physical characteristics": {
+        "color": "BrownYellowBlackTanGreen",
+        "skin type": "Scales",
+        "top speed": "15 mph",
+        "lifespan": "1-30 years",
+        "weight": "0.01-300kg (0.02-661lbs)"
+    }
+}

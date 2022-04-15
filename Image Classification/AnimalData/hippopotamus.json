@@ -1,0 +1,45 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Hippopotamidae",
+        "genus": "Hippopotamus",
+        "scientific name": "Hippopotamus amphibius"
+    },
+    "conservation-status": "Vulnerable",
+    "locations": [
+        "Africa"
+    ],
+    "facts": {
+        "prey": "Grasses, Grain, Flowers",
+        "name of young": "Calf",
+        "group behavior": "Herd",
+        "fun fact": "Has pink anti-bacterial sweat!",
+        "estimated population size": "150,000",
+        "biggest threat": "Hunting and habitat loss",
+        "most distinctive feature": "Ears, eyes and nostrils on top of the head",
+        "other name(s)": "Common Hippopotamus, Water Horse",
+        "gestation period": "240 days",
+        "habitat": "Lakes, rivers and wetlands",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Nocturnal",
+        "common name": "Hippopotamus",
+        "number of species": "1",
+        "location": "Sub-Saharan Africa",
+        "slogan": "Has pink anti-bacterial sweat!",
+        "group": "Mammal"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackPink",
+        "skin type": "Leather",
+        "top speed": "30 mph",
+        "lifespan": "40 - 50 years",
+        "weight": "1tonne - 4.5tonnes (2,200lbs - 9,900lbs)",
+        "length": "2m - 5m (6.5ft - 16.5ft)",
+        "age of sexual maturity": "6 - 14 years",
+        "age of weaning": "18 months"
+    }
+}

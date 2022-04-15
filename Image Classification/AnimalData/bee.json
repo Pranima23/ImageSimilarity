@@ -1,0 +1,43 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Hymenoptera",
+        "family": "Andrenidae",
+        "genus": "Apis",
+        "scientific name": "Apis mellifera"
+    },
+    "conservation-status": "Not Listed",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "name of young": "Larva, grub",
+        "group behavior": "Solitary/Colony",
+        "fun fact": "Rock paintings of bees date back 15,000 years",
+        "estimated population size": "at least two trillion",
+        "biggest threat": "Disease, pesticides, habitat destruction",
+        "most distinctive feature": "Ability of some to make honey and beeswax",
+        "gestation period": "three days",
+        "litter size": "Six to 1000 per day",
+        "habitat": "Any habitat where there are flowering plants",
+        "predators": "Primates, wasps, dragonflies, birds, small mammals",
+        "diet": "Omnivore",
+        "type": "insect",
+        "common name": "bee",
+        "location": "everywhere except Antarctica"
+    },
+    "physical characteristics": {
+        "color": "Multi-colored",
+        "skin type": "Exoskeleton",
+        "top speed": "20 mph"
+    }
+}

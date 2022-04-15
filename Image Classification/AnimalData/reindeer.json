@@ -1,0 +1,35 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Cervidae",
+        "genus": "Rangifer",
+        "scientific name": "Rangifer Tarandus"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean"
+    ],
+    "facts": {
+        "main prey": "Grass, Herbs, Berries",
+        "habitat": "Forests close to the Arctic tundra",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Herd",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Also known as the Caribou"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyWhiteTan",
+        "skin type": "Fur",
+        "top speed": "50 mph",
+        "lifespan": "12-15 years",
+        "weight": "60-320kg (132-705lbs)"
+    }
+}

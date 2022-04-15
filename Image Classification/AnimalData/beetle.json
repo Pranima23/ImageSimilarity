@@ -1,0 +1,36 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Endopterygota",
+        "family": "Coleoptera"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Insects, Dust, Dung",
+        "fun fact": "There are more than 350,000 different species",
+        "habitat": "Most land and freshwater habitats",
+        "predators": "Bats, Frogs, Reptiles",
+        "diet": "Omnivore",
+        "average litter size": "200",
+        "favorite food": "Insects",
+        "common name": "Beetle",
+        "number of species": "350000",
+        "location": "Worldwide"
+    },
+    "physical characteristics": {
+        "color": "BrownYellowRedBlueBlackGreen",
+        "skin type": "Shell"
+    }
+}

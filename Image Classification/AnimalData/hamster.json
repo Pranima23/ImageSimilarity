@@ -1,0 +1,39 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Cricetidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Seeds, Nuts, Berries",
+        "fun fact": "Able to run as quickly backwards as forwards!",
+        "habitat": "Dry deserts and sand dunes",
+        "predators": "Owl, Hawk, Snakes",
+        "diet": "Omnivore",
+        "average litter size": "8",
+        "lifestyle": "Solitary",
+        "favorite food": "Seeds",
+        "type": "Mammal",
+        "slogan": "Able to run as quickly backwards as forwards!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhiteTan",
+        "skin type": "Fur",
+        "top speed": "4 mph",
+        "lifespan": "2-3 years",
+        "weight": "100-900g (3.5-32oz)"
+    }
+}

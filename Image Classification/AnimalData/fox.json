@@ -1,0 +1,39 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific name": "Vulpes vulpes"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ],
+    "facts": {
+        "main prey": "Rabbits, Birds, Lizards",
+        "distinctive feature": "Pointed ears and long bushy tail",
+        "habitat": "Woodland areas and urban parks",
+        "predators": "Human, Bears, Eagles",
+        "diet": "Carnivore",
+        "average litter size": "5",
+        "lifestyle": "Solitary",
+        "favorite food": "Rabbit",
+        "type": "Mammal",
+        "slogan": "There are 12 different species in the world!"
+    },
+    "physical characteristics": {
+        "color": "BrownRedBlackTan",
+        "skin type": "Fur",
+        "top speed": "29 mph",
+        "lifespan": "3 - 11 years",
+        "weight": "5kg - 11kg (11lbs - 24lbs)",
+        "length": "40cm - 83cm (16in - 33in)"
+    }
+}

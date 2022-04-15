@@ -1,0 +1,41 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Ovis",
+        "scientific name": "Ovis aries"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Grass, Weeds, Flowers",
+        "group behavior": "Flock",
+        "fun fact": "Sheep were one of the first and most successful domesticated species in the world.",
+        "habitat": "Grass plains and mountainous regions",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Flock",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Around 35 million in the English countryside!"
+    },
+    "physical characteristics": {
+        "color": "BrownYellowBlackWhite",
+        "skin type": "Wool",
+        "top speed": "25 mph",
+        "lifespan": "5-10 years",
+        "weight": "40-130kg (88-298lbs)"
+    }
+}

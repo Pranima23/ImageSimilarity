@@ -1,0 +1,40 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "scientific name": "Ursidae"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Fish, Nectar, Insects",
+        "distinctive feature": "Large teeth and paws and strong body",
+        "habitat": "Forest and mountainous regions",
+        "predators": "Human, Wolf, Wildcats",
+        "diet": "Omnivore",
+        "average litter size": "2",
+        "lifestyle": "Solitary",
+        "favorite food": "Fish",
+        "type": "Mammal",
+        "slogan": "There are 8 different species!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhite",
+        "skin type": "Fur",
+        "top speed": "35 mph",
+        "lifespan": "15 - 35 years",
+        "weight": "27kg - 450kg (60lbs - 990lbs)",
+        "height": "1.2m - 3.3m (4ft - 11ft)"
+    }
+}

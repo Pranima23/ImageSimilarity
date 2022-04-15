@@ -1,0 +1,42 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Apodiformes",
+        "family": "Trochilidae",
+        "genus": "Trochilinae"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Nectar, Tree sap, Insects, Spiders",
+        "fun fact": "Hummingbird eggs are just half an inch big.",
+        "distinctive feature": "Long, thin beak and the ability to hover",
+        "wingspan": "Three to five inches",
+        "incubation period": "15 to 18 days",
+        "habitat": "Rainforest and tropical jungles",
+        "predators": "Hawks, Snakes, Lizards",
+        "diet": "Omnivore",
+        "lifestyle": "Solitary",
+        "favorite food": "Nectar",
+        "type": "Bird",
+        "average clutch size": "2",
+        "slogan": "Beat their wings up to 80 times per second!",
+        "nesting location": "Sheltered trees or shrubbery and fork of branches",
+        "age of molting": "Four months for some species",
+        "migratory": "1"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyRedWhiteTanGreen",
+        "skin type": "Feathers",
+        "top speed": "30 mph",
+        "lifespan": "3 - 5 years",
+        "weight": "2.2g - 20g (0.07oz - 0.7oz)",
+        "height": "5cm - 20cm (2in - 8in)"
+    }
+}

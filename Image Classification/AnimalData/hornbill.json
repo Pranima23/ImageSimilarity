@@ -1,0 +1,43 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Bucerotiformes",
+        "family": "Bucerotidae",
+        "scientific name": "Bucerotidae"
+    },
+    "conservation-status": "Critically EndangeredLeast ConcernVulnerable",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Oceania"
+    ],
+    "facts": {
+        "prey": "Fruits and insects",
+        "name of young": "Chicks",
+        "group behavior": "Flock",
+        "fun fact": "The bird has a massive horn on its bill!",
+        "estimated population size": "Varies by species",
+        "biggest threat": "Habitat loss",
+        "most distinctive feature": "The large bill and horn",
+        "gestation period": "23-96 days",
+        "litter size": "1-7",
+        "habitat": "Rainforests, woodlands and savannas",
+        "predators": "Owls, eagles and humans",
+        "diet": "Omnivore",
+        "average litter size": "1-7",
+        "type": "Bird",
+        "common name": "Hornbill",
+        "number of species": "60",
+        "location": "The tropical regions of Africa, Asia and the Pacific Islands"
+    },
+    "physical characteristics": {
+        "color": "GreyYellowRedBlueBlackWhiteOrange",
+        "skin type": "Feathers",
+        "lifespan": "40 years",
+        "weight": "13.6 lbs",
+        "length": "63 inches",
+        "age of sexual maturity": "up to 6 years"
+    }
+}

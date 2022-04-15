@@ -1,0 +1,29 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Chondrichthyes"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Ocean"
+    ],
+    "facts": {
+        "prey": "Sea lion, seals, humans, small fishes, and invertebrates",
+        "fun fact": "No shark species has any bones in their bodies",
+        "biggest threat": "Killer whales, sperm whales and humans",
+        "gestation period": "Two years",
+        "diet": "Carnivore",
+        "favorite food": "Sea lion, seals, humans, small fishes, and invertebrates",
+        "type": "Fish",
+        "common name": "Shark",
+        "location": "USA and Australian waters mostly"
+    },
+    "physical characteristics": {
+        "color": "GreyYellowBlackWhiteCream",
+        "skin type": "Rough",
+        "lifespan": "20-30 years",
+        "weight": "1500 to 4000 pounds",
+        "length": "5.8 to 7 feet"
+    }
+}

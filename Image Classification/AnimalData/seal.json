@@ -1,0 +1,32 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Pinnipedia",
+        "scientific name": "Phoca vitulina"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ],
+    "facts": {
+        "main prey": "Fish, Crabs, Squid",
+        "habitat": "Coastal waters and rocky shores",
+        "predators": "Human, Sharks, Killer Whale",
+        "diet": "Carnivore",
+        "average litter size": "1",
+        "lifestyle": "Herd",
+        "favorite food": "Fish",
+        "type": "Mammal",
+        "slogan": "There are 30 different species worldwide!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhiteTan",
+        "skin type": "Smooth",
+        "top speed": "27 mph",
+        "lifespan": "15-25 years",
+        "weight": "105-3,000kg (230-6,000lbs)"
+    }
+}

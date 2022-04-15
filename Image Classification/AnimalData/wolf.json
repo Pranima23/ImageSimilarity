@@ -1,0 +1,40 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific name": "Canis lupus"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Deer, Elk, Moose",
+        "fun fact": "Wolves are apex predators that travel in packs and are essential for the health of most ecosystems",
+        "habitat": "Grass plains and woodland",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average litter size": "4",
+        "lifestyle": "Pack",
+        "favorite food": "Deer",
+        "type": "Mammal",
+        "slogan": "Thought to date back more than 300,000 years!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyBlackWhite",
+        "skin type": "Fur",
+        "top speed": "46 mph",
+        "lifespan": "10-12 years",
+        "weight": "80-150lbs"
+    }
+}

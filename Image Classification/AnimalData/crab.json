@@ -1,0 +1,41 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Malacostraca",
+        "order": "Decapoda",
+        "family": "Brachyura",
+        "scientific name": "Brachyura"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Shrimp, Fish, Mussels",
+        "distinctive feature": "Hard, armoured shell and eight legs",
+        "habitat": "Coral reefs and coastline",
+        "diet": "Carnivore",
+        "average litter size": "2",
+        "lifestyle": "Solitary",
+        "favorite food": "Shrimp",
+        "type": "Arthropod",
+        "slogan": "There are 93 different crab groups"
+    },
+    "physical characteristics": {
+        "color": "BrownRedBlueOrange",
+        "skin type": "Shell",
+        "top speed": "12 mph",
+        "lifespan": "1 - 100 years",
+        "weight": "100g - 2,000g (3.5oz - 704oz)",
+        "length": "1cm - 400cm (0.4in - 157in)"
+    }
+}

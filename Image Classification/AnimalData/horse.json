@@ -1,0 +1,40 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Perissodactyla",
+        "family": "Equidae",
+        "genus": "Equus",
+        "scientific name": "Equus caballus"
+    },
+    "conservation-status": "Data Deficient",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Grass, Fruit, Leaves",
+        "habitat": "Small forests and grassland",
+        "predators": "Human, Wolf, Bears",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Herd",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Has evolved over 50 million years!"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhite",
+        "skin type": "Hair",
+        "top speed": "40 mph",
+        "lifespan": "25-30 years",
+        "weight": "380-550kg (840-1,200lbs)"
+    }
+}

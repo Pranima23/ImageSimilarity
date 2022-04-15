@@ -1,0 +1,32 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Diprotodontia",
+        "family": "Macropodidae"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Oceania"
+    ],
+    "facts": {
+        "main prey": "Grass, Seeds, Flowers",
+        "fun fact": "Females have a deep pouch on their front!",
+        "habitat": "Dry forests, desert and grassland",
+        "predators": "Human, Dingo",
+        "diet": "Omnivore",
+        "average litter size": "2",
+        "lifestyle": "Sociable",
+        "favorite food": "Grass",
+        "type": "Mammal",
+        "slogan": "Females have a deep pouch on their front!"
+    },
+    "physical characteristics": {
+        "color": "BrownGreyTan",
+        "skin type": "Fur",
+        "top speed": "35 mph",
+        "lifespan": "4-10 years",
+        "weight": "18-95kg (40-200lbs)"
+    }
+}

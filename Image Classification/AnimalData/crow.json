@@ -1,0 +1,47 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "genus": "Corvus"
+    },
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "prey": "Insects, fruit, carrion",
+        "fun fact": "A group of these birds is called a Murder.",
+        "estimated population size": "27 million",
+        "biggest threat": "Pet trade",
+        "most distinctive feature": "Caw",
+        "other name(s)": "American crow",
+        "wingspan": "36 inches",
+        "incubation period": "18 days",
+        "litter size": "3-7 eggs",
+        "habitat": "Fields, orchards, savannas, suburbs",
+        "predators": "Coyotes, bobcats",
+        "diet": "Omnivore",
+        "type": "Bird",
+        "common name": "Crow",
+        "nesting location": "Trees, shrubs, telephone poles",
+        "migratory": "1"
+    },
+    "physical characteristics": {
+        "color": "Black",
+        "skin type": "Feathers",
+        "top speed": "59 mph",
+        "lifespan": "4-20 years",
+        "weight": "11-21 ounces",
+        "height": "6-10 inches",
+        "length": "16-20 inches"
+    }
+}

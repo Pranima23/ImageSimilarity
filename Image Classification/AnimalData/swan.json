@@ -1,0 +1,43 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "genus": "Cygnus",
+        "scientific name": "Cygnus atratus"
+    },
+    "conservation-status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ],
+    "facts": {
+        "main prey": "Aquatic Plants, Insects, Small Fish",
+        "distinctive feature": "Large, powerful wings and webbed feet",
+        "wingspan": "200cm - 350cm (79in - 138in)",
+        "habitat": "Large, shallow wetlands and open water",
+        "predators": "Human, Wolf, Raccoon",
+        "diet": "Omnivore",
+        "lifestyle": "Flock",
+        "favorite food": "Aquatic Plants",
+        "type": "Bird",
+        "average clutch size": "5",
+        "slogan": "Populations have been affected by pollution!"
+    },
+    "physical characteristics": {
+        "color": "GreyBlackWhiteOrange",
+        "skin type": "Feathers",
+        "top speed": "50 mph",
+        "lifespan": "8 - 12 years",
+        "weight": "10kg - 15kg (22lbs - 33lbs)",
+        "length": "91cm - 150cm (36in - 60in)"
+    }
+}

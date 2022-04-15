@@ -1,0 +1,41 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Mollusca",
+        "class": "Bivalvia",
+        "order": "Ostreoida",
+        "family": "Ostreidae",
+        "scientific name": "Ostreidae"
+    },
+    "conservation-status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ],
+    "facts": {
+        "prey": "Algae and other food particles",
+        "group behavior": "Colony",
+        "fun fact": "They have eyes all over their bodies",
+        "estimated population size": "Unknown",
+        "biggest threat": "Crabs, seabirds, humans, starfishes",
+        "most distinctive feature": "Shells",
+        "gestation period": "7-10 days",
+        "water type": "Brackish",
+        "habitat": "Reefs and rocky shores",
+        "predators": "Crabs, seabirds, humans, starfishes",
+        "diet": "Omnivore",
+        "average litter size": "1,000,000",
+        "favorite food": "Algae and other food particles",
+        "type": "Marine creatures",
+        "common name": "Oyster",
+        "number of species": "200",
+        "location": "Worldwide",
+        "slogan": "Can process up to 10 litres of water an hour!"
+    },
+    "physical characteristics": {
+        "color": "GreyWhiteSilver",
+        "skin type": "Shell",
+        "lifespan": "20 years in captivity",
+        "weight": "50 grams (medium-sized oyster)",
+        "length": "62 to 64 mm"
+    }
+}

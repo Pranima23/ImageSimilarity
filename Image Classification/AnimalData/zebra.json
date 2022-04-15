@@ -1,0 +1,44 @@
+{
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Perissodactyla",
+        "family": "Equidae",
+        "genus": "Equus",
+        "scientific name": "Equus zebra, Equus quagga, Equus grevyi"
+    },
+    "conservation-status": "Endangered",
+    "locations": [
+        "Africa"
+    ],
+    "facts": {
+        "prey": "Grasses, Leaves, Buds",
+        "name of young": "Foal",
+        "group behavior": "Herd",
+        "fun fact": "Stripe patterns are unique to each individual!",
+        "estimated population size": "Declining",
+        "biggest threat": "Habitat loss",
+        "most distinctive feature": "Long, slender legs and one toe on each foot",
+        "other name(s)": "Mountain Zebra, Common Zebra, Plains Zebra, Burchells Zebra, Grevys Zebra",
+        "gestation period": "10 - 12 months",
+        "habitat": "Open grassland and plains",
+        "diet": "Herbivore",
+        "average litter size": "1",
+        "lifestyle": "Diurnal",
+        "common name": "Zebra",
+        "number of species": "3",
+        "location": "Eastern and Southern Africa",
+        "slogan": "Stripe patterns are unique to each individual!",
+        "group": "Mammal"
+    },
+    "physical characteristics": {
+        "color": "BrownBlackWhite",
+        "skin type": "Hair",
+        "lifespan": "20 - 30 years",
+        "weight": "220kg - 405kg (485lbs - 893lbs)",
+        "length": "2m - 2.75m (6.6ft - 9ft)",
+        "age of sexual maturity": "3 - 4 years",
+        "age of weaning": "11 months"
+    }
+}
